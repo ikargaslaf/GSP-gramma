@@ -1,0 +1,69 @@
+
+comment объявления ; 
+declare let123 vector ; 
+declare while456 sizet ; 
+
+comment присваивание ; 
+let let123 = ( ( 1 + 3 ) * ( 4 - 5 ) ) / ( 6 % 3 ) + ( ( ( ( ( ( ( 16 ) ) ) ) ) ) ) * 10 ; 
+
+comment fhhfjsdfhajskd раолвыфаорыфврал */862/*/8104987* ; 
+
+for each var in 14 do comment body-for ; end ; 
+
+if 12 > 3 then comment body-if ; end ;
+
+if var1 <> var2 then comment body-if ; else comment body-else ; end ;
+
+comment свитч с otherwise А, 阿, ā. Б, 贝, bèi. В, 非, fēi. Г, 给 ;
+
+switch ( ( 12 * 10 ) - const3 ) 
+   when 1 , 2 , 3 :
+         comment body ;
+   when 15 :
+         comment body ;
+   otherwise :
+         comment body ;
+end ;
+
+comment свитч без otherwise;
+
+switch ( ( 12 * 10 ) - const3 ) 
+   when 1 , 2 , 3 : 
+         comment body ; 
+   when 15 :  
+         comment body ; 
+end ;
+
+comment сложный цикл ; 
+
+while var1 < var2 do 
+    while var1 <> var2 do
+        while var1 > var2 do
+            while var1 <= var2 do
+                while var1 >= var2 do
+                   if var1 <> const2 then 
+                        if ( while1 * 13 ) <> 90 then 
+                              comment body ; 
+                        else
+                              comment body ; 
+                        end ;
+                   end ;
+                end ;
+            end ;
+        end ;
+    end ;
+end ;
+
+comment попрыгаем по меткам ;
+
+<<label>> 
+
+exception ; 
+
+;
+
+goto label ;
+
+read var1 , var2 , var3 ; 
+
+write << var1 << var2 << var3 ; 
